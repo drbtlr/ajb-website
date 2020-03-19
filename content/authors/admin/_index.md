@@ -1,48 +1,51 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm a educational researcher, a former teacher, a former former musician, and a lover of fine wine.  
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Education Policy
+    institution: Indiana University
+    year: 2018
+  - course: MBA in Business Analytics
+    institution: Indiana University
+    year: 2011
+  - course: BM in Performance
+    institution: University of British Columbia
+    year: 2004
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Data Science
+- Predictive Modeling
+- Impact Evaluation
+- Performance Measurement
+- Strategy
+- Government & Non-Profits
+
+name: Aaron Butler
 organizations:
-- name: Stanford University
+- name: 
   url: ""
-role: Professor of Artificial Intelligence
+role: 
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/drbtlr
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/aaronjamesbutler
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0433-3083
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+For sixteen years, Aaron has worked as a teacher, researcher, author, advocate, and community organizer. Aaron is a Senior Research Analyst in the Office of the Commissioner at the [Kentucky Department of Education](https://education.ky.gov/). He serves as lead researcher on the Strategic Planning and Research Team, which plans and develops research and evaluation products that inform agency leadership and the Kentucky Board of Education. Previously, Aaron was a Researcher at the [Center for Evaluation, Policy, and Research](https://cepr.indiana.edu/) at [Indiana University](https://www.indiana.edu/). Aaron started his career as a English teacher in New York City and taught K-12 students for four years.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is an alum of the [Strategic Data Project](https://sdp.cepr.harvard.edu/), an initiative of the [Harvard University Center for Education Policy Research](https://cepr.harvard.edu/) with a mission of transforming the use of data in education to improve student outcomes.
